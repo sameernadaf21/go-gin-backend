@@ -9,7 +9,7 @@ Make sure you have Go installed (1.20+ recommended).
 Windows PowerShell example:
 
 ```powershell
-$env:PORT = "8080"
+$env:PORT = "8081"
 go run main.go
 ```
 
