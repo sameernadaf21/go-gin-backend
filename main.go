@@ -11,7 +11,7 @@ func main() {
 	// Root endpoint
 	router.GET("/", func(c *gin.Context) {
 		c.JSON(http.StatusOK, gin.H{
-			"message": "This is  My Sameer's Backenddddd 🚀",
+			"message": "This is  My Sameer's   Backenddddd 🚀",
 		})
 	})
 
